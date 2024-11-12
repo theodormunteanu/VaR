@@ -20,8 +20,6 @@ INVENTORY of functions/methods:
 """
 
 import sys
-sys.path.append(r'C:\Users\XYZW\Documents\Python Scripts\Equity exotics')
-sys.path.append(r'C:\Users\XYZW\Documents\Python Scripts\Quantlib_tests\Helpers')
 import european_option_price as EOP
 import basket_option_class as BOSpec 
 import price_BS as opt_BS
